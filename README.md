@@ -1,4 +1,6 @@
 # google-scholar-crawler
+This project was a teamwork with my teammate [@alireza-dehghan-nayeri](https://github.com/alireza-dehghan-nayeri)
+## Description
 The Google Scholar Crawler is a Python project that utilizes [Selenium](https://www.selenium.dev/) and [Pandas](https://pandas.pydata.org/) to crawl Google Scholar and extract information related to a specific keyword. The project allows users to search for a keyword on Google Scholar and retrieve a list of articles related to that keyword.
 
 ### Features
